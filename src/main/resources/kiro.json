@@ -1,0 +1,13 @@
+{
+  "firstName" : "Kiro",
+  "lastName" : "Kosturanov",
+  "email": "kiro.kosturanov@scalefocus.com",
+  "index": 7,
+  "phoneNumber": "074204093",
+  "credits" : 1000,
+  "university": "St. Paul the Apostle",
+  "address":{
+    "streetName" : "Jadranska",
+    "streetNumber" : 15
+  }
+}
